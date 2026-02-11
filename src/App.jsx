@@ -73,9 +73,9 @@ export default function Portfolio() {
       location: "Fairfax, VA"
     },
     {
-      school: "NEIL GOGTE INSTITUTE OF TECHNOLOGY",
+      school: "Osmania University",
       degree: "BE in Computer Science",
-      gpa: "3.61 / 4.0",
+      gpa: "3.53 / 4.0",
       location: "Hyderabad, India"
     }
   ];
@@ -147,7 +147,7 @@ export default function Portfolio() {
 
           <div className="flex flex-wrap gap-4 mb-16">
             <a 
-              href="https://linkedin.com/in/neeharikarv" 
+              href="https://www.linkedin.com/in/neeharika-rv" 
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-6 py-3 bg-emerald-500/10 border border-emerald-500/30 hover:bg-emerald-500/20 transition-all font-mono text-sm group"
@@ -167,7 +167,7 @@ export default function Portfolio() {
               <ExternalLink size={14} className="opacity-0 group-hover:opacity-100 transition-opacity" />
             </a>
             <a 
-              href="https://neeharika.dev" 
+              href="https://portfolio-qdxx.onrender.com/" 
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center gap-2 px-6 py-3 bg-gray-900 border border-gray-700 hover:bg-gray-800 transition-all font-mono text-sm group"
